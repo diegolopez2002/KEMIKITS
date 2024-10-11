@@ -1,0 +1,2 @@
+- CODE Repository for Chemical Viszualtization Tool @2024 KEMIKITS
+- Main page, sign up page, visualizatin page and contact page as well
